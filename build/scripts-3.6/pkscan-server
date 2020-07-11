@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from pkscan_print_server.bin import PkscanServer
+
+if __name__ == "__main__":
+    PkscanServer()
